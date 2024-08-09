@@ -1,6 +1,14 @@
-## Hi there 👋
+## Welcome to my profile 💗
 
-<!--
+Meu nome é Larissa Miquelato
+-Estou estudando na Alura.
+-Estou me desenvolvendo na linguagem JavaScript.
+-Organizo e compartilho meus projetos por aqui. 
+## Para contato 📫
+
+
+larimiquelato@gmail.com
+@Lari.miquelato
 **Larismiquelato/Larismiquelato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
